@@ -40,7 +40,8 @@ public class LojaController {
 		p1.setPreco(3855.79);
 		
 		listaDeProdutos.add(p1);
-		
+		listaDeProdutos.add(p2);
+		listaDeProdutos.add(p3);
 		
 		return "produtos";
 		
